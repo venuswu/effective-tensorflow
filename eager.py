@@ -1,3 +1,5 @@
+#for tf2.0
+
 import tensorflow as tf
 
 tf.executing_eagerly()
